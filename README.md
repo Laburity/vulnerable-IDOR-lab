@@ -6,7 +6,7 @@ This lab demonstrates an *Insecure Direct Object Reference (IDOR)* vulnerability
 
 **1. Clone the repository**
 
-git clone [https://github.com/talhatariqsec/PHP-IDOR-lab)](https://github.com/Laburity/vulnerable-IDOR-lab).git
+git clone https://github.com/Laburity/vulnerable-IDOR-lab.git
 
 
 **2. Start a Local PHP Server**
